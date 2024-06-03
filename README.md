@@ -1,5 +1,7 @@
 # TechWare XR
 
+[Link to my web-site](https://bekzat051102.github.io/situational-task-5/)
+
 Project Description
 This project is a web application designed to promote and enable pre-orders for TechWave Inc.'s latest augmented reality device, TechWave XR. The web application includes the following key features:
 
